@@ -1,6 +1,6 @@
 # Github_CDLC
 ## RoadMap
-1. [Setup(L1)](Setup(L1).md)
+1. [Setup](Setup)
 2. [Commands](Commands)
 3. [Github_QDLC(L1)](Github_QDLC(L1).md)
 4. [Github_QDLC(L2)](Github_QDLC(L2).md)
